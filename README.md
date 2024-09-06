@@ -23,6 +23,7 @@ Step 7 : Apply new unknown values and print all the acqirred values for accuracy
 Step 8: End the program.
 
 ## Program:
+```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by:bala murugan s
@@ -74,6 +75,7 @@ classification_report1=classification_report(y_test,y_pred)
 print(classification_report1)
 
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
+```
 ## Output:
 Screenshot 2024-09-06 101533 Screenshot 2024-09-06 101539 Screenshot 2024-09-06 101545 Screenshot 2024-09-06 101552 Screenshot 2024-09-06 101557 Screenshot 2024-09-06 101604 Screenshot 2024-09-06 101610 Screenshot 2024-09-06 101614 Screenshot 2024-09-06 101632
 
